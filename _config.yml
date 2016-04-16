@@ -31,8 +31,8 @@ force-https: True
 lang: "en"
 author: "Dinesh Kumar"
 title: "Dinesh Kumar Sarangapani"
-description: "Blog and website of Dinesh Kumar S, blogging mainly for tech. Opinions expressed are mine."
-keywords: "dinesh kumar sarangapani, blog, technical, computer science, engineer, architect, java"
+description: "Blog and website of Dinesh Kumar Sarangapani, blogging mainly for tech. Opinions expressed are mine."
+keywords: "dinesh kumar sarangapani, blog, technical, computer science, sotware engineer, architect, java, Chennai, India, Bits pilani, Anna university"
 favicon: "/img/favicon.ico"
 
 ################
@@ -55,8 +55,11 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Why do we fall master Bruce?"
+  - text: "யாதும் ஊரே யாவரும் கேளிர்"
+  - text: "Every country is my country; all people are my kinsmen."
+  - text : " தீதும் நன்றும் பிறர்தர வாரா"
+  - text: "Good and bad do not happen to you because of other people."
+
 
 me-img: "/img/jetpacktocat.jpg"
 
@@ -109,16 +112,20 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/dineshkumar_sarangapani.jpg"
     date: "March 2010 - Today"
     description: "Software engineer"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/bits.png"
+    date: "Auguest 2012 - March 2015"
+    description: "M.tech Software Systems - Bits Pilani"
+  - image: "/img/timeline/accet.jpg"
     date: "Auguest 2006 - March 2010"
-    description: "B.E Software Engineering"
+    description: "B.E Software Engineering - ACCET"
+
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/baby_dini.jpg"
 
 ###########
 # Contact #
