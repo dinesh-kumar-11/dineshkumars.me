@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "http://dineshkumars.me"
+url: "http://dineshkumars.info"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -173,7 +173,7 @@ social:
 
 pages_list:
   About: 'about'
-  Blog: 'http://blog.dineshkumars.me'
+  Blog: 'http://blog.dineshkumars.info'
   Timeline: 'timeline'
   Contact: 'contact'
 
