@@ -112,8 +112,11 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/dinesh1.jpeg"
+    date: "March 2020 - Today"
+    description: "Aspiring ML and DL"
   - image: "/img/timeline/dineshkumar_sarangapani.jpg"
-    date: "March 2010 - Today"
+    date: "March 2010 - 2020"
     description: "Software engineer"
   - image: "/img/timeline/bits.png"
     date: "Auguest 2012 - March 2015"
@@ -149,12 +152,10 @@ author_blurb_image: "/img/author.png"
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/thunderdinesh"
   - title: "twitter"
     url: "https://twitter.com/dinitwitt"
   - title: "github"
-    url: "https://github.com/dinesh-kumar-11"
+    url: "https://github.com/dineshkumarsarangapani"
   - title: "linkedin"
     url: "https://in.linkedin.com/in/dinesh-kumar-sarangapani-04133118"
 
@@ -173,7 +174,7 @@ social:
 
 pages_list:
   About: 'about'
-  Blog: 'http://blog.dineshkumars.info'
+  Github: 'https://github.com/dineshkumarsarangapani'
   Timeline: 'timeline'
   Contact: 'contact'
 
